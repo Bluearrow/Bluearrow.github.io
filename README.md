@@ -1,5 +1,5 @@
 Bluearrow.github.io
 ===================
-[TOP]
+[TOC]
 # hi
 ## OK
